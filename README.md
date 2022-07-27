@@ -1,4 +1,4 @@
-# THETA X Buttons using State Management
+# Get Camera State and Update Mobile App
 
 <img src="docs/screenshot.png" width=50%>
 
